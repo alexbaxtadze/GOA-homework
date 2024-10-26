@@ -350,7 +350,7 @@ begin_fill()
 color("Blue")
 penup()
 
-goto(350,346)
+goto(350,345)
 pendown()
 right(45)
 forward(1027)
